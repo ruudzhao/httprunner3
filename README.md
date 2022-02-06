@@ -1,2 +1,2 @@
 # httprunner3
-HttpRunner3 is a automate framework of api test.
+HttpRunner3 is a automatic framework of api test.
