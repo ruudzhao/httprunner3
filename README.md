@@ -1,7 +1,8 @@
 # HttpRunner3
-An automatic framework of api test（接口自动化测试框架）.采用yaml格式文件编写测试用例，执行make模块转换为pytest测试.py模块文件，执行pytest后生成Allure报告结果文件，最后采用All展示报告并最终质量。
+An automatic framework of API Test（接口自动化测试框架）.采用yaml格式文件编写测试用例，执行make模块转换为pytest测试.py模块文件，
+执行pytest后生成Allure报告结果文件，最后采用Allure展示报告并跟踪质量。
 
-基于Pytest、requests、HttpRunner3_make、Yaml、Allure、Jenkins(CI)、Toml等第三方组件及中间件打造，具有高效、简单易用、高质量等特点。 
+基于Pytest、requests、HttpRunner3_Maker、Yaml、Allure、Jenkins(CI)、Toml等第三方组件及中间件打造，具有高效、简单易用、高质量等特点。 
 
 ## 套件说明
 由两部分组成：自动测试框架 和 应用案例。
