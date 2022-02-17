@@ -7,9 +7,12 @@ An automatic framework of api test（接口自动化测试框架）.采用yaml�
 由两部分组成：自动测试框架 和 应用案例。
 
 ### 自动测试框架
-框架解决案例数据转换及其自动持续集成等实现，详见知识库： httprunner3_framework
+框架解决案例数据转换及其自动持续集成等实现，详见知识库： [httprunner3_framework](http://www.github.com/ruud/httprunner3-framework "Framework")
 
 ### 应用案例
-包括基本的例子，也包括互联网、金融等行业的综合案例，案例持续更新中，详见知识库：httprunner3_cases
+包括基本的例子，也包括互联网、金融等行业的综合案例，案例持续更新中，详见知识库：[httprunner3_cases](http://www.github.com/ruud/httprunner3-cases "Cases")
 
+## Slogan
+一天的工作一小时搞定
 
+An hour Done a day's work.
